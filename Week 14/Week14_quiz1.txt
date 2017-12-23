@@ -1,0 +1,5 @@
+1) acos(1/x) + C
+
+2) acos(e^x) + C
+
+3) sec(e^x) + C
