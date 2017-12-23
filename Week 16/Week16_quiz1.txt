@@ -1,0 +1,5 @@
+1) 8__|--12 (sqrt(10+atan(x)) - (6x-7)) dx
+
+2) 5__|--8 (atan(cos(x)) - sin^2(x)) dx
+
+3) 10__|--13 (sqrt(10+sin(x)) - sin^5(x)) dx
