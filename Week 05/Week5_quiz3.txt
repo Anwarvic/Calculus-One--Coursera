@@ -1,3 +1,0 @@
-1) It is possible that f(10)=5.
-
-2) It must be that f(10)>5.
