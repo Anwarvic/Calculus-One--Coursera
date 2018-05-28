@@ -1,0 +1,11 @@
+1) -E^cos(x) * sin(x)
+
+2) -cot(x)
+
+3) -tan(x)
+
+4) E^sin(x) * cos(x)
+
+5) -csc(log(x))*cot(log(x))/x
+
+6) -csc(E^x)^2*E^x
