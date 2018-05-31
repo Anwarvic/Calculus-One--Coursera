@@ -1,9 +1,0 @@
-1) 1/((1+x^2)*atan(x))
-
-2) 1/(x*sqrt(1-log(x)^2))
-
-3) 1/(asin(x)*sqrt(1-x^2))
-
-4) E^asin(x)*1/sqrt(1-x^2)
-
-5) E^x/sqrt(1-(E^x)^2)
