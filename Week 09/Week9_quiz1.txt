@@ -1,3 +1,0 @@
-1) f does not attain a maximum or a minimum value.
-
-2) No; the Extreme Value Theorem does not guarantee that a continuous function attains an extreme value.
