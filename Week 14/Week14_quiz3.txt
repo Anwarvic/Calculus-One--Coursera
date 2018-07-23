@@ -1,3 +1,0 @@
-1) cos(t)
-
-2) cos(sin(t)) * cos(t)
