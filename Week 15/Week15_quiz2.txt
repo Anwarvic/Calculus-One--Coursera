@@ -1,3 +1,0 @@
-1) 2*sqrt(x)*e^sqrt(x) - 2*e^sqrt(x) + C
-
-2) x^3*e^x - 3*x^2*e^x + 6*x*e^x - 3*e^x + C
