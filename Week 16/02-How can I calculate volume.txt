@@ -1,0 +1,5 @@
+1) 8__|--9 pi*(first+2)^2 - (second+2)^2 dx
+
+2) 5__|--10 p*(first)^2 - (second)^2 dx
+
+3) 7__|--8 2pi*(x - -3) * sin(cos(x)) dx
